@@ -1,0 +1,48 @@
+body{
+    font-family: helvetica;
+}
+
+.container {
+    width: 600px;
+    margin: 170px auto;
+}
+
+.tittle{
+    height: 50px;
+    background-color: #33BEBE;
+    text-align: left;
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+}
+
+.content{
+    display: flex;
+    height: 20px;
+}
+
+.contenido{
+    width: 80%;
+    text-align: left;
+    /*padding: 20px;*/
+    color: #7C8B88;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+
+.imagen{
+    position: relative;
+    width: 70%; /* for IE 6 */
+}
+
+h2 {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+

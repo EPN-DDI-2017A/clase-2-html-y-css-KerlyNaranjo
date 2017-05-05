@@ -1,0 +1,60 @@
+body{
+    font-family: helvetica;
+}
+
+.container {
+    width: 550px;
+    margin: 50px auto;
+    background-color: #131A2D;
+}
+
+.header{
+	display: flex;
+	color: #D0C4AB;
+}
+
+.sello{
+	width: 50px;
+     height: 50px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     border: 5px solid #D5245B;
+}
+
+.cuadro{
+	width: 190px;
+	height: 120px;
+	background-color: #D0C4AB;
+	padding: 5px;
+}
+
+.tittle{
+	text-align: right;
+	font-size: 20px;
+	border-left: 600px;
+}
+
+.subtittle{
+	color: #BCBBBB;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.collage{
+	display: flex;
+	color: #D0C4AB;
+	align: center;
+	text-align: center;
+	font-size: 18px;
+}
+
+a{
+	font-size: 12px;
+	color: black;
+}
+
+.collage{
+	text-align: center;
+	font-size: 18px;
+}

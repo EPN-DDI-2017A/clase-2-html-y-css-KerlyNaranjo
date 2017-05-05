@@ -1,0 +1,51 @@
+body{
+    font-family: helvetica;
+}
+
+.container {
+    width: 600px;
+    margin: 50px auto;
+}
+
+.content{
+    background-color: #E8E8E7;
+}
+
+.contenido{
+    width: 45%;
+    text-align: left;
+    padding: 20px;*/
+    margin-top: 10px;
+    margin-left: 145px;
+    font-size: 11px;
+    background-color: #ffffff;
+}
+
+.imagen{
+    position: relative;
+    width: 100%; /* for IE 6 */
+}
+
+.tittle{
+    position: absolute;
+    top: 100px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+}
+
+table{
+    position: absolute;
+    left: 180;
+    width: 40%;
+    text-align: center;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.linea{
+    background-color: #8BCC9B
+}
+
+
